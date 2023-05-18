@@ -1,7 +1,7 @@
 <h1>👋 Hello World</h1>
 <p>Welcome to my page! I'm Parth Arora, a Computer Science Student From Georgia Tech!</p>
 
-<h3>🤔 Who am I?</h3>
+<h3>🤔 More About Me?</h3>
 I am a Computer Science student at Georgia Tech, I am constantly seeking out new and exciting challenges in the world of technology. With a background in Full stack web development, Virtual and Augmented reality, and quantum computing, I have a strong passion for working on the cutting edge of technological advancement.
 I am always looking for ways to push the boundaries of what is possible with technology and am excited to continue exploring the latest and greatest developments in the field. If you share a similar passion for cutting edge technology, don't hesitate to reach out and connect on github.
 <h3>Things I code with</h3>
@@ -10,7 +10,9 @@ I am always looking for ways to push the boundaries of what is possible with tec
 </p>
 <p><b>📱 App Development : </b>Swift, Java, Unity2D, XCode, Android Studio
 </p>
-<p><b>📊 Data Analysis : </b>Python, Pandas, MySQL, NumPy, PyQt, Beautiful Soup, RegEx, Matplotlib, PyMySql
+<p><b>📊 Data Science : </b>Python, Pandas, MySQL, NumPy, PyQt, Beautiful Soup, RegEx, Matplotlib, PyMySql
+</p>
+<p><b>🤖 Artificial Intellience : </b>Python, TensorFlow, MediaPipe, Pandas
 </p>
 <p><b>⚛️ Quantum Computing : </b>Qiskit, IBM Quantum Lab
 </p>
